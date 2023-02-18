@@ -2,10 +2,11 @@
 I am a **junior programmer** and **web developer.**
 
 - 👯 I’m looking to collaborate on JavaScript and Python projects
-- 📚 I have course work experience with HTML, CSS, Bootstrap, JavaScript, Python, MEAN stack, Django
+- 📚 I have course work experience with HTML, CSS, Bootstrap, C, JavaScript, Python, MEAN stack, Django
 - 🔭 I’m currently learning React 
-- 👉 Personal portfolio site: https://3ldi.pythonanywhere.com/
-- ⚽ Soccer is my favourtie sport and ♥️ AC Milan ♥️ my favorite team
+- 👉 [Personal Web Portfolio](https://3ldi.pythonanywhere.com/)
+- ⚽ I love football (a.k.a. soccer 😑) and ♥️ [AC Milan](https://en.wikipedia.org/wiki/A.C._Milan) ♥️ my favorite team!
+
 
 
 
