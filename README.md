@@ -5,7 +5,7 @@ I am a **junior programmer** and **web developer.**
 - 📚 I have course work experience with HTML, CSS, Bootstrap, C, JavaScript, Python, MEAN stack, Django
 - 🔭 I’m currently learning React 
 - 👉 [Personal Web Portfolio](https://3ldi.pythonanywhere.com/)
-- ⚽ I love football (a.k.a. soccer 😑) and ♥️ [AC Milan](https://en.wikipedia.org/wiki/A.C._Milan) ♥️ my favorite team!
+- ⚽ I love football (a.k.a. soccer 😑) and ♥️ [AC Milan](https://en.wikipedia.org/wiki/A.C._Milan) ♥️ is my favorite team!
 
 
 
