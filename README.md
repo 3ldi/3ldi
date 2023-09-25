@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a **junior programmer** and **web developer.**
+I am a **web developer** with experience in front-end and back-end development.
 
 - 👯 I’m looking to collaborate on JavaScript and Python projects
 - 📚 I have course work experience with HTML, CSS, Bootstrap, C, JavaScript, Python, jQuery, MEAN stack, Django
